@@ -111,8 +111,6 @@ global-air-quality-weather-analysis/
 ├── AQI Dashboard.pbix
 ├── Screenshots.png
 │   
-
-    ├
 ```
 
 *The filenames and folders above are examples. Adjust them to match the files you upload.*
