@@ -35,7 +35,7 @@ Using Microsoft Excel and Power BI, the project demonstrates data cleaning, expl
 <!-- Replace the placeholder below with your Power BI dashboard screenshot -->
 
 <p align="center">
-  <img src="Screenshot 2026-10-29 173200.png" alt="Power BI Dashboard Preview" width="90%"/>
+  <img src="Screenshot 2026-10-29 173022.png" alt="Power BI Dashboard Preview" width="90%"/>
 </p>
 
 
