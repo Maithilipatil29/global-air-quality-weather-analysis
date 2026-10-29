@@ -27,7 +27,7 @@ Using Microsoft Excel and Power BI, the project demonstrates data cleaning, expl
 <!-- Replace the placeholder below with your Excel dashboard screenshot -->
 
 <p align="center">
-  <img src="Screenshots 2026-10-29 172949.png" alt="Excel Dashboard Preview" width="90%"/>
+  <img src="Screenshot 2026-10-29 172949.png" alt="Excel Dashboard Preview" width="90%"/>
 </p>
 
 ### 📈 Power BI Dashboard
@@ -35,10 +35,10 @@ Using Microsoft Excel and Power BI, the project demonstrates data cleaning, expl
 <!-- Replace the placeholder below with your Power BI dashboard screenshot -->
 
 <p align="center">
-  <img src="iScreenshots 2026-10-29 173200.png" alt="Power BI Dashboard Preview" width="90%"/>
+  <img src="Screenshot 2026-10-29 173200.png" alt="Power BI Dashboard Preview" width="90%"/>
 </p>
 
-> **Note:** Create an `images` folder in this repository and upload your screenshots using the filenames shown above.
+
 
 ---
 
