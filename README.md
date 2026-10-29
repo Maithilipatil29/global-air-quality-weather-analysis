@@ -61,7 +61,7 @@ The dataset contains approximately **10,000 records** covering air quality and w
 | Air Quality | PM2.5, PM10, NO2, SO2, CO, O3 |
 | Weather | Temperature, Humidity, Wind Speed |
 
-*Dataset details should be updated if your final source file differs.*
+
 
 ## 🛠️ Tools & Technologies
 
@@ -113,7 +113,6 @@ global-air-quality-weather-analysis/
 │   
 ```
 
-*The filenames and folders above are examples. Adjust them to match the files you upload.*
 
 ## 🚀 How to Explore the Project
 
@@ -123,7 +122,7 @@ global-air-quality-weather-analysis/
 3. Explore the charts, summaries, and slicers available in the workbook.
 
 **Power BI Dashboard**
-1. Download `PowerBI_Dashboard.pbix`.
+1. Download `AQI Dashboard.pbix`.
 2. Open it using Power BI Desktop.
 3. Explore the report pages, visualizations, and filters.
 
